@@ -15,6 +15,8 @@
 
 *I open a new table with the money I got*
 
+![Restaurant](https://github.com/abdullahcrkci/unity-dream-restaurants/blob/main/DreamRestaurants/Assets/Pics/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png)
+
 ## Used Assets
 
 [CoffeShop Starter Pack](https://assetstore.unity.com/packages/3d/props/coffeeshop-starter-pack-160914)
